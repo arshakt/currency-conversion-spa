@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.dropdownBlockFrom {
+  position: absolute;
+  left: 100px;
+  top: 40px;
+}
+
+.dropdownBlockTo {
+  position: absolute;
+  left: 385px;
+  top: 40px;
+}
+
+.entryField{
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+.textarea{
+  position: absolute;
+  left: 100px;
+  top: 150px;
+}
