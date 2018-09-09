@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react"
 
 function Item(props) {
   return (
@@ -6,7 +6,7 @@ function Item(props) {
       <span>{props.value}</span>-
       <span> {props.result}</span>
     </div>
-  );
+  )
 }
 
-export default Item;
+export default Item

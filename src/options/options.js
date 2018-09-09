@@ -116,7 +116,7 @@ const options = [
   {value: 'XOF', label: "CFA Franc BCEAO"},
   {value: 'YER', label: "Yemeni Rial"},
   {value: 'ZAR', label: "South African Rand"}
-  ]
+]
 
 
 module.exports = options
